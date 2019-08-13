@@ -9,11 +9,11 @@ public class Andar {
 	void anda(){
 		if(calcado)
 		{
-			System.out.println("Andando!");
+			System.out.println("-> Andando...");
 		}
 		else
 		{
-			System.out.println("Você está descalço! Calce os sapatos!");
+			System.out.println("-> Você está descalço! Calce os sapatos!");
 		}
 	}
 	
