@@ -22,21 +22,21 @@ public class Caminhando {
 				and.calcar();
 				and.anda();
 				
+				Andar and1 = new Andar();
+				and1.pessoa = "Astrogildo";
+				and1.sexo = "Homem";
+				and1.idade = 79;
+				and1.calcado = true;
 				
-				and.pessoa = "Astrogildo";
-				and.sexo = "Homem";
-				and.idade = 79;
-				and.calcado = true;
+				and1.status();
 				
-				and.status();
+				and1.anda();
 				
-				and.anda();
-				
-				and.descalcar();
-				and.anda();
+				and1.descalcar();
+				and1.anda();
 
-				and.calcar();
-				and.anda();
+				and1.calcar();
+				and1.anda();
 			
 	}
 	
