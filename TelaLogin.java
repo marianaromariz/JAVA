@@ -77,7 +77,7 @@ public class TelaLogin {
 					JOptionPane.showMessageDialog(frame, l+", acesso liberado!");
 				}
 				else {
-					JOptionPane.showMessageDialog(frame, l+", acesso negao!!");
+					JOptionPane.showMessageDialog(frame, l+", acesso negado!!");
 				}
 			}
 		});
