@@ -24,19 +24,23 @@ public class Usuario {
 			System.exit(0);
 		}
 	}
-
+	
+	//criando método para acesso da variável u na classe Usuario
 	public String getU() {
 		return this.u;
 	}
-
+	
+	//criando método para modificação da variável u na classe Usuario
 	public void setU(String u) {
 		this.u = u;
 	}
-
+	
+	//criando método para acesso da variável s na classe Usuario
 	public String getS() {
 		return this.s;
 	}
-
+	
+	//criando método para acesso da variável s na classe Usuario
 	public void setS(String s) {
 		this.s = s;
 	}
@@ -48,7 +52,8 @@ public class Usuario {
 		//criando tweet
 		this.tts.add(tt);
 	}
-
+	
+	//método para listar tweets
 	public void listatts(){
 		//imprime o usuário logado
 		System.out.printf("\nUsuário: %s\n", this.getU());
