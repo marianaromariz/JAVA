@@ -25,22 +25,22 @@ public class Usuario {
 		}
 	}
 	
-	//criando método para acesso da variável u na classe Usuario
+	//criando método para acesso da variável "u" na classe Usuario
 	public String getU() {
 		return this.u;
 	}
 	
-	//criando método para modificação da variável u na classe Usuario
+	//criando método para modificação da variável "u" na classe Usuario
 	public void setU(String u) {
 		this.u = u;
 	}
 	
-	//criando método para acesso da variável s na classe Usuario
+	//criando método para acesso da variável "s" na classe Usuario
 	public String getS() {
 		return this.s;
 	}
 	
-	//criando método para acesso da variável s na classe Usuario
+	//criando método para acesso da variável "s" na classe Usuario
 	public void setS(String s) {
 		this.s = s;
 	}
