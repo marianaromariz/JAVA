@@ -1,3 +1,5 @@
+//Nomes dos integrantes: Daniel Guimarães Faria, Jonatan Pereira da Silva e Mariana Fernandes Campos Romariz
+//link do video: https://youtu.be/aVBkG1Fs_xM
 
 import java.util.Date;
 import java.util.Random;
